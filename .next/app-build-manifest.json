@@ -1,3 +1,32 @@
 {
-  "pages": {}
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/JEE_ADVANCE/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/JEE_ADVANCE/page.js"
+    ],
+    "/NEET/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/NEET/page.css",
+      "static/chunks/app/NEET/page.js"
+    ],
+    "/JEE_MAINS/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/JEE_MAINS/page.css",
+      "static/chunks/app/JEE_MAINS/page.js"
+    ]
+  }
 }
