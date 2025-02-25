@@ -791,6 +791,18 @@ video {
 .h-screen {
   height: 100vh;
 }
+.h-\[500px\] {
+  height: 500px;
+}
+.h-\[0px\] {
+  height: 0px;
+}
+.h-\[450px\] {
+  height: 450px;
+}
+.h-\[480px\] {
+  height: 480px;
+}
 .max-h-96 {
   max-height: 24rem;
 }
@@ -808,6 +820,18 @@ video {
 }
 .min-h-\[90vh\] {
   min-height: 90vh;
+}
+.min-h-\[95vh\] {
+  min-height: 95vh;
+}
+.min-h-\[vh\] {
+  min-height: vh;
+}
+.min-h-\[7vh\] {
+  min-height: 7vh;
+}
+.min-h-\[70vh\] {
+  min-height: 70vh;
 }
 .w-2\.5 {
   width: 0.625rem;
