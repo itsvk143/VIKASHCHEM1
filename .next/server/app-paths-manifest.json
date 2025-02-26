@@ -1,8 +1,6 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js",
   "/JEE_ADVANCE/page": "app/JEE_ADVANCE/page.js",
   "/JEE_MAINS/page": "app/JEE_MAINS/page.js",
-  "/NEET/page": "app/NEET/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/page": "app/page.js",
+  "/NEET/page": "app/NEET/page.js"
 }
